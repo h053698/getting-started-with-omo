@@ -14,7 +14,7 @@ omo account show
 ```
 
 `omo account`의 하위 명령(`show`, `adopt`, `token`, `export`, `forget`)은 `omo login`과 같은 OS 키체인 로그인 정보를 씁니다.
-[CLI 참조](08-CLI-참조.md#omo-계정omo-native)
+[CLI 참조](08-CLI-참조/01-실행-파일-명령.md#omo-계정omo-native)
 
 ## 2. 설정 파일 위치
 
@@ -24,7 +24,7 @@ omo account show
 ```
 
 프로젝트의 `.omo/omo.jsonc`가 있으면 사용자 설정보다 우선합니다.
-[설정 파일 우선순위](02-설치-가이드/04-LLM-에이전트용-설치-절차.md#설정-파일-우선순위)
+[설정 파일 우선순위](02-설치-가이드/04-LLM-에이전트용-설치-절차/11-9단계-고급-설정.md#설정-파일-우선순위)
 
 ## 3. 메인 세션 모델: `model_profile`
 
@@ -48,7 +48,7 @@ omo account show
 4. Senpi의 기본 설정
 
 `model_profile`은 메인 세션 모델만 정합니다. 카테고리와 에이전트는 각자의 대체 순서를 따릅니다.
-[프로필을 선택하세요](01-소개.md#프로필을-선택하세요),
+[프로필을 선택하세요](01-소개/03-프로필을-선택하세요.md#프로필을-선택하세요),
 [네 가지 프로필](04-에이전트-모델-매칭-가이드/02-네-가지-프로필이-메인-에이전트-모델을-선택하는-방식.md)
 
 ## 4. 카테고리와 에이전트 모델: `categories`, `agents`
@@ -84,7 +84,7 @@ omo doctor --models --json
 
 모든 카테고리와 에이전트에 대해 먼저 실행되는 모델, 재시도 순서, 출처(`built-in`, `omo.json`, `category:<name>`), 상태(`runs first`, `fallback N`, `excluded by exclude_models`, `no login`, `not reached`)를 출력합니다.
 메인 세션의 `model_profile` 경로도 함께 보여 줍니다. 자격 증명은 조회하지 않습니다.
-[doctor 진단](08-CLI-참조.md#doctor-진단)
+[doctor 진단](08-CLI-참조/06-doctor-진단.md#doctor-진단)
 
 ## 6. 기존 OpenCode 설정이 있을 때
 

@@ -1,3 +1,5 @@
+[목차](../README.md) / [Oh My OpenAgent 기능 참고](README.md)
+
 ## MCP 기능
 
 플러그인은 세 계층의 MCP 구조를 사용합니다.
@@ -111,3 +113,6 @@ CLI에서 미리 인증하려면 다음 명령을 실행하세요.
 bunx oh-my-openagent mcp oauth login <server-name> --server-url https://api.example.com
 ```
 
+---
+
+이전: [훅 기능](07-훅-기능.md) | 다음: [모델 기능 참고](09-모델-기능-참고.md)

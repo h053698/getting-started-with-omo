@@ -1,9 +1,11 @@
+[목차](README.md)
+
 ## computer 도구
 
 OmO Native 컴퓨터 사용 구성 요소는 도구 검색으로 찾을 수 있는 `computer` 도구를 등록하고, 활성화되면 JavaScript 및
 Python
 eval 커널에 `computer` 전역 객체를 제공합니다. 설정, 중지 수단, 플랫폼 제한, 권한은 [컴퓨터
-사용](06-OmO-Native의-컴퓨터-사용.md#omo-native의-컴퓨터-사용)을 참고하세요.
+사용](06-OmO-Native의-컴퓨터-사용/01-개요.md#omo-native의-컴퓨터-사용)을 참고하세요.
 
 > **실험적 기능입니다.** 컴퓨터 사용 지원은 실험적이며, 아래 도구 계약은 릴리스 간에 변경될 수 있습니다.
 
@@ -97,7 +99,7 @@ holdKeys, holdMouse)에는 항상 승인이 필요합니다. 모든 백엔드가
 
 - **코드: `PermissionDenied`**
   - 의미: 화면 캡처, 입력 또는 접근성에 필요한 OS 권한이 없습니다.
-  - 조치: OmO를 실행하는 앱에 권한을 부여하세요. [운영체제 설정](06-OmO-Native의-컴퓨터-사용.md#omo-native의-컴퓨터-사용)을 참조하세요.
+  - 조치: OmO를 실행하는 앱에 권한을 부여하세요. [운영체제 설정](06-OmO-Native의-컴퓨터-사용/01-개요.md#omo-native의-컴퓨터-사용)을 참조하세요.
 - **코드: `Suspended`**
   - 의미: 사용자가 중지 단축키를 누르거나 `/computer stop`을 실행했습니다. macOS/X11에서는 물리적 입력만 인정합니다.
   - 조치: 작업을 중지하세요. `/computer resume`은 사용자만 실행할 수 있습니다.
@@ -143,7 +145,7 @@ holdKeys, holdMouse)에는 항상 승인이 필요합니다. 모든 백엔드가
   - 조치: 다시 시도하기 전에 상태를 다시 확인하고, 실패가 반복되면 중지하세요.
 
 엔진 시작 실패는 `/computer status`에서 `engine: native-unavailable`, `quarantined`,
-`abi-mismatch`로 표시됩니다. 자세한 내용은 [문제 해결](06-OmO-Native의-컴퓨터-사용.md#omo-native의-컴퓨터-사용)을 참조하세요.
+`abi-mismatch`로 표시됩니다. 자세한 내용은 [문제 해결](06-OmO-Native의-컴퓨터-사용/01-개요.md#omo-native의-컴퓨터-사용)을 참조하세요.
 
 ## 엔진 상호 운용성
 
@@ -157,3 +159,6 @@ holdKeys, holdMouse)에는 항상 승인이 필요합니다. 모든 백엔드가
 Wayland는 전혀
 지원하지 않으므로 브리지만 사용하는 Wayland 세션에서는 포인터나 키보드 입력을 주입할 수 없습니다.
 
+---
+
+이전: [엔진 모드와 bunshin](06-OmO-Native의-컴퓨터-사용/09-엔진-모드와-bunshin.md) | 다음: [실행 파일 명령](08-CLI-참조/01-실행-파일-명령.md)
