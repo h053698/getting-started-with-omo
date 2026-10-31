@@ -34,11 +34,13 @@ bunx oh-my-openagent doctor
     - 컴퓨터 사용 기능이 입력을 시작하기 전까지 중지 경로는 비활성 상태로 보고됩니다. 엔진이 중지 코드를 활성화한 후에만 해당 경로가 활성화되기
       때문입니다. 진단 프로브는 읽기 전용 `engine.hello` 및 `capabilities` 요청만 보내며, doctor의 시간
       제한을 따릅니다.
-- `omo doctor --models [--json]`(OmO Native)는 모든 작업 카테고리와 에이전트의 모델 결정 결과를 즉시
-  출력합니다. 여기에는
-  먼저 실행되는 모델, 순서대로 나열한 런타임 재시도 모델, 출처(`built-in`, `omo.json`, `category:<name>`),
-  상태(`runs first`, `fallback N`, `excluded by exclude_models`, `no login`, `not reached`),
-  메인 세션의 `model_profile` 경로가 포함됩니다. 생성된 모델 결정 모듈과 엔진의 오프라인 모델 목록을 사용하며 자격 증명은
+- OmO Native에서 모든 작업 카테고리와 에이전트의 모델 결정 결과를 즉시 출력하려면 다음 명령을 실행하세요:
+
+  ```bash
+  omo doctor --models [--json]
+  ```
+
+  여기에는 먼저 실행되는 모델, 순서대로 나열한 런타임 재시도 모델, 출처(`built-in`, `omo.json`, `category:<name>`), 상태(`runs first`, `fallback N`, `excluded by exclude_models`, `no login`, `not reached`), 메인 세션의 `model_profile` 경로가 포함됩니다. 생성된 모델 결정 모듈과 엔진의 오프라인 모델 목록을 사용하며 자격 증명은
   조회하지 않습니다.
   모델 결정 런타임을 로드할 수 없으면 종료 코드 1을 반환하고, `--json` 이외의 옵션을 사용하면 종료 코드 2를 반환합니다. 모든
   대체 모델 순서에서 특정 모델을 제외하려면

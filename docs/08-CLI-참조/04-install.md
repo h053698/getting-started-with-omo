@@ -56,11 +56,14 @@ Light 버전은 OpenCode 모델 설정을 작성하지 않으므로 `--platform=
 - `omo_daily_active`: 기본 플러그인을 로드할 때(`reason: "plugin_loaded"`)
   또는 `oh-my-openagent run`을 실행할 때(`reason: "run_started"`) 발생합니다.
 -
-  `omo_codex_daily_active`: `omo-agent-toolkit install
-  --platform=codex` 또는 `--platform=both`로 설치할 때(`reason: "install_completed"`)
-  발생하며, 모든 Codex 세션에서는 Codex 플러그인의 `SessionStart` 훅가 `reason: "session_start"`로
-  발생시킵니다. 두 소스는 UTC 날짜를 기준으로 동일한 중복 제거 처리를 공유하므로 일간/주간/월간 활성 수는 설치 이벤트뿐 아니라 실제 Codex
-  사용량도 반영합니다.
+  `omo_codex_daily_active`: 다음 명령으로 설치할 때(`reason: "install_completed"`) 발생합니다:
+
+  ```bash
+  omo-agent-toolkit install --platform=codex
+  omo-agent-toolkit install --platform=both
+  ```
+
+  모든 Codex 세션에서는 Codex 플러그인의 `SessionStart` 훅가 `reason: "session_start"`로 발생시킵니다. 두 소스는 UTC 날짜를 기준으로 동일한 중복 제거 처리를 공유하므로 일간/주간/월간 활성 수는 설치 이벤트뿐 아니라 실제 Codex 사용량도 반영합니다.
 
 수집 거부 환경 변수:
 

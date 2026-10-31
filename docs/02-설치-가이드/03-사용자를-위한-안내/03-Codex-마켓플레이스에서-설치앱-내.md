@@ -108,9 +108,16 @@ LazyCodex 부트스트랩이 백그라운드에서 실행 중입니다. 완료�
     `fetch() proxy.url must be a non-empty string` 오류가 기록됩니다.
   - 대처 방법: OpenCode를 실행하는 셸에서 `HTTP_PROXY`/`HTTPS_PROXY`를 설정한 뒤, OpenCode의
     Windows 설정 경로에 다음 명령으로 사전 설치하세요:
-    `npm install oh-my-openagent@latest --prefix "%APPDATA%\\opencode"`.
-    OpenCode를 다시 시작하고
-    `bunx oh-my-openagent doctor --json`를 실행합니다.
+
+    ```powershell
+    npm install oh-my-openagent@latest --prefix "%APPDATA%\\opencode"
+    ```
+
+    OpenCode를 다시 시작하고 다음을 실행합니다.
+
+    ```bash
+    bunx oh-my-openagent doctor --json
+    ```
 
 **Windows 상태.** 기본 Windows 환경에서는 마켓플레이스 부트스트랩이 PowerShell 5.1 호환
 `bootstrap.ps1`을 통해
