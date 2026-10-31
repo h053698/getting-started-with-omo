@@ -1,4 +1,4 @@
-<sub><a href="../README.md">목차</a> › <a href="README.md">CLI 참조</a></sub>
+<a href="../README.md">목차</a> › <a href="README.md">CLI 참조</a>
 
 ## doctor 진단
 

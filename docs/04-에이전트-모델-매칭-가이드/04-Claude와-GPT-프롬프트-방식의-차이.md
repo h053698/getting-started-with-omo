@@ -1,4 +1,4 @@
-<sub><a href="../README.md">목차</a> › <a href="README.md">에이전트-모델 매칭 가이드</a></sub>
+<a href="../README.md">목차</a> › <a href="README.md">에이전트-모델 매칭 가이드</a>
 
 ## Claude와 GPT 프롬프트 방식의 차이
 

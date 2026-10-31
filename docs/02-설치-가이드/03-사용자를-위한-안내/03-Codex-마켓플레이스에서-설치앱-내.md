@@ -1,4 +1,4 @@
-<sub><a href="../../README.md">목차</a> › <a href="../README.md">설치 가이드</a> › <a href="README.md">사용자를 위한 안내</a></sub>
+<a href="../../README.md">목차</a> › <a href="../README.md">설치 가이드</a> › <a href="README.md">사용자를 위한 안내</a>
 
 ### Codex 마켓플레이스에서 설치(앱 내)
 

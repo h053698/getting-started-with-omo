@@ -1,4 +1,4 @@
-<sub><a href="../README.md">목차</a> › <a href="README.md">CLI 참조</a></sub>
+<a href="../README.md">목차</a> › <a href="README.md">CLI 참조</a>
 
 ## get-local-version: 로컬 버전 조회
 

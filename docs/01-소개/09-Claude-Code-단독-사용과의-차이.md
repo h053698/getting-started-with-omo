@@ -1,4 +1,4 @@
-<sub><a href="../README.md">목차</a> › <a href="README.md">소개</a></sub>
+<a href="../README.md">목차</a> › <a href="README.md">소개</a>
 
 ## Claude Code 단독 사용과의 차이
 

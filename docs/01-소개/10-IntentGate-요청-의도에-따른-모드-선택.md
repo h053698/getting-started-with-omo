@@ -1,4 +1,4 @@
-<sub><a href="../README.md">목차</a> › <a href="README.md">소개</a></sub>
+<a href="../README.md">목차</a> › <a href="README.md">소개</a>
 
 ## IntentGate: 요청 의도에 따른 모드 선택
 
