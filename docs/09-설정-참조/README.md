@@ -1,4 +1,4 @@
-[목차](../README.md)
+<sub><a href="../README.md">목차</a></sub>
 
 # 설정 참조
 

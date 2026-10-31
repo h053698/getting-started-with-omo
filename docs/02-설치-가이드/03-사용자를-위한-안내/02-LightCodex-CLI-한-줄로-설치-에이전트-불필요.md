@@ -1,4 +1,4 @@
-[목차](../../README.md) / [설치 가이드](../README.md) / [사용자를 위한 안내](README.md)
+<sub><a href="../../README.md">목차</a> › <a href="../README.md">설치 가이드</a> › <a href="README.md">사용자를 위한 안내</a></sub>
 
 ### Light(Codex CLI) - 한 줄로 설치, 에이전트 불필요
 
@@ -70,4 +70,6 @@ Codex는 자체 기본값에 따라 Windows 셸 호출을 시작할 수 있습�
 
 ---
 
-이전: [Ultimate(OpenCode) - 에이전트에게 맡기세요](01-UltimateOpenCode-에이전트에게-맡기세요.md) | 다음: [Codex 마켓플레이스에서 설치(앱 내)](03-Codex-마켓플레이스에서-설치앱-내.md)
+<p align="right"><sub>다음 문서</sub><br><a href="03-Codex-마켓플레이스에서-설치앱-내.md"><b>Codex 마켓플레이스에서 설치(앱 내)</b> →</a></p>
+
+<sub>← 이전: <a href="01-UltimateOpenCode-에이전트에게-맡기세요.md">Ultimate(OpenCode) - 에이전트에게 맡기세요</a></sub>

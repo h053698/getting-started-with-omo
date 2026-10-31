@@ -1,4 +1,4 @@
-[목차](../../README.md) / [설치 가이드](../README.md)
+<sub><a href="../../README.md">목차</a> › <a href="../README.md">설치 가이드</a></sub>
 
 # LLM 에이전트용 설치 절차
 

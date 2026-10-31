@@ -1,4 +1,4 @@
-[목차](../README.md) / [소개](README.md)
+<sub><a href="../README.md">목차</a> › <a href="README.md">소개</a></sub>
 
 ## Claude Code 단독 사용과의 차이
 
@@ -37,6 +37,6 @@ Oh My OpenAgent는 이를 협업하는 팀으로 확장합니다.
 
 ---
 
----
+<p align="right"><sub>다음 문서</sub><br><a href="10-IntentGate-요청-의도에-따른-모드-선택.md"><b>IntentGate: 요청 의도에 따른 모드 선택</b> →</a></p>
 
-이전: [에이전트 모델 매칭](08-에이전트-모델-매칭.md) | 다음: [IntentGate: 요청 의도에 따른 모드 선택](10-IntentGate-요청-의도에-따른-모드-선택.md)
+<sub>← 이전: <a href="08-에이전트-모델-매칭.md">에이전트 모델 매칭</a></sub>

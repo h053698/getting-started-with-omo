@@ -1,4 +1,4 @@
-[목차](../README.md) / [Oh My OpenAgent 기능 참고](README.md)
+<sub><a href="../README.md">목차</a> › <a href="README.md">Oh My OpenAgent 기능 참고</a></sub>
 
 ## MCP 기능
 
@@ -115,4 +115,6 @@ bunx oh-my-openagent mcp oauth login <server-name> --server-url https://api.exam
 
 ---
 
-이전: [훅 기능](07-훅-기능.md) | 다음: [모델 기능 참고](09-모델-기능-참고.md)
+<p align="right"><sub>다음 문서</sub><br><a href="09-모델-기능-참고.md"><b>모델 기능 참고</b> →</a></p>
+
+<sub>← 이전: <a href="07-훅-기능.md">훅 기능</a></sub>

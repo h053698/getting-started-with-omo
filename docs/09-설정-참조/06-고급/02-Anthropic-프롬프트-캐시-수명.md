@@ -1,4 +1,4 @@
-[목차](../../README.md) / [설정 참조](../README.md) / [고급](README.md)
+<sub><a href="../../README.md">목차</a> › <a href="../README.md">설정 참조</a> › <a href="README.md">고급</a></sub>
 
 ### Anthropic 프롬프트 캐시 수명
 
@@ -63,4 +63,6 @@ URL을 통해 제공되는 모델은 `cacheRetention`이 `"long"`이어도 5분 
 
 ---
 
-이전: [런타임 폴백](01-런타임-폴백.md) | 다음: [모델 기능](03-모델-기능.md)
+<p align="right"><sub>다음 문서</sub><br><a href="03-모델-기능.md"><b>모델 기능</b> →</a></p>
+
+<sub>← 이전: <a href="01-런타임-폴백.md">런타임 폴백</a></sub>

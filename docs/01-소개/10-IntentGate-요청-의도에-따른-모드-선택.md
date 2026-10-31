@@ -1,4 +1,4 @@
-[목차](../README.md) / [소개](README.md)
+<sub><a href="../README.md">목차</a> › <a href="README.md">소개</a></sub>
 
 ## IntentGate: 요청 의도에 따른 모드 선택
 
@@ -11,6 +11,6 @@ IntentGate는 정규식으로 모드 키워드를 감지해 지침을 삽입합�
 
 ---
 
----
+<p align="right"><sub>다음 문서</sub><br><a href="11-다음으로-살펴볼-문서.md"><b>다음으로 살펴볼 문서</b> →</a></p>
 
-이전: [Claude Code 단독 사용과의 차이](09-Claude-Code-단독-사용과의-차이.md) | 다음: [다음으로 살펴볼 문서](11-다음으로-살펴볼-문서.md)
+<sub>← 이전: <a href="09-Claude-Code-단독-사용과의-차이.md">Claude Code 단독 사용과의 차이</a></sub>

@@ -1,4 +1,4 @@
-[목차](../../../README.md) / [설정 참조](../../README.md) / [기능](../README.md) / [메모리](README.md)
+<sub><a href="../../../README.md">목차</a> › <a href="../../README.md">설정 참조</a> › <a href="../README.md">기능</a> › <a href="README.md">메모리</a></sub>
 
 #### Agreements: 사용자와 합의한 규칙
 
@@ -19,4 +19,6 @@
 
 ---
 
-이전: [People: 사람에 관한 메모리](12-People-사람에-관한-메모리.md) | 다음: [Soul: 에이전트의 작업 원칙](14-Soul-에이전트의-작업-원칙.md)
+<p align="right"><sub>다음 문서</sub><br><a href="14-Soul-에이전트의-작업-원칙.md"><b>Soul: 에이전트의 작업 원칙</b> →</a></p>
+
+<sub>← 이전: <a href="12-People-사람에-관한-메모리.md">People: 사람에 관한 메모리</a></sub>

@@ -1,4 +1,4 @@
-[목차](../../README.md) / [설정 참조](../README.md) / [기능](README.md)
+<sub><a href="../../README.md">목차</a> › <a href="../README.md">설정 참조</a> › <a href="README.md">기능</a></sub>
 
 ### Git Master
 
@@ -32,4 +32,6 @@ git 2.32 이상이 필요합니다. 커밋 기록에 이 트레일러를 남기�
 
 ---
 
-이전: [Tmux 통합](06-Tmux-통합.md) | 다음: [주석 검사기](08-주석-검사기.md)
+<p align="right"><sub>다음 문서</sub><br><a href="08-주석-검사기.md"><b>주석 검사기</b> →</a></p>
+
+<sub>← 이전: <a href="06-Tmux-통합.md">Tmux 통합</a></sub>

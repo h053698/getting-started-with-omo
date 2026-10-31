@@ -1,4 +1,4 @@
-[목차](../../README.md) / [설치 가이드](../README.md) / [사용자를 위한 안내](README.md)
+<sub><a href="../../README.md">목차</a> › <a href="../README.md">설치 가이드</a> › <a href="README.md">사용자를 위한 안내</a></sub>
 
 ### 첫 번째 실행: omo 설정
 
@@ -99,4 +99,6 @@
 
 ---
 
-이전: [OmO Native: omo-ai로 설치](05-OmO-Native-omo-ai로-설치.md) | 다음: [개요](../04-LLM-에이전트용-설치-절차/01-개요.md)
+<p align="right"><sub>다음 문서</sub><br><a href="../04-LLM-에이전트용-설치-절차/01-개요.md"><b>개요</b> →</a></p>
+
+<sub>← 이전: <a href="05-OmO-Native-omo-ai로-설치.md">OmO Native: omo-ai로 설치</a></sub>

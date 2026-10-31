@@ -1,4 +1,4 @@
-[목차](../README.md) / [CLI 참조](README.md)
+<sub><a href="../README.md">목차</a> › <a href="README.md">CLI 참조</a></sub>
 
 ## doctor 진단
 
@@ -46,6 +46,6 @@ bunx oh-my-openagent doctor
 
 ---
 
----
+<p align="right"><sub>다음 문서</sub><br><a href="07-run-실행.md"><b>run 실행</b> →</a></p>
 
-이전: [uninstall / cleanup: 제거와 정리](05-uninstall-cleanup-제거와-정리.md) | 다음: [run 실행](07-run-실행.md)
+<sub>← 이전: <a href="05-uninstall-cleanup-제거와-정리.md">uninstall / cleanup: 제거와 정리</a></sub>

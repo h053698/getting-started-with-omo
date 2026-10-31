@@ -1,4 +1,4 @@
-[목차](../../../README.md) / [설정 참조](../../README.md) / [기능](../README.md)
+<sub><a href="../../../README.md">목차</a> › <a href="../../README.md">설정 참조</a> › <a href="../README.md">기능</a></sub>
 
 # 메모리
 

@@ -1,4 +1,4 @@
-[목차](../../README.md) / [설치 가이드](../README.md) / [사용자를 위한 안내](README.md)
+<sub><a href="../../README.md">목차</a> › <a href="../README.md">설치 가이드</a> › <a href="README.md">사용자를 위한 안내</a></sub>
 
 ## 사용자를 위한 안내
 
@@ -17,4 +17,6 @@ https://raw.githubusercontent.com/code-yeongyu/oh-my-openagent/refs/heads/dev/do
 
 ---
 
-이전: [어떤 에디션을 선택해야 하나요?](../02-어떤-에디션을-선택해야-하나요.md) | 다음: [Light(Codex CLI) - 한 줄로 설치, 에이전트 불필요](02-LightCodex-CLI-한-줄로-설치-에이전트-불필요.md)
+<p align="right"><sub>다음 문서</sub><br><a href="02-LightCodex-CLI-한-줄로-설치-에이전트-불필요.md"><b>Light(Codex CLI) - 한 줄로 설치, 에이전트 불필요</b> →</a></p>
+
+<sub>← 이전: <a href="../02-어떤-에디션을-선택해야-하나요.md">어떤 에디션을 선택해야 하나요?</a></sub>

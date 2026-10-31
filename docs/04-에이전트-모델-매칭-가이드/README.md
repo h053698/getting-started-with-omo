@@ -1,4 +1,4 @@
-[목차](../README.md)
+<sub><a href="../README.md">목차</a></sub>
 
 # 에이전트-모델 매칭 가이드
 

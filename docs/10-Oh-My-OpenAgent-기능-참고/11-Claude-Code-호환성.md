@@ -1,4 +1,4 @@
-[목차](../README.md) / [Oh My OpenAgent 기능 참고](README.md)
+<sub><a href="../README.md">목차</a> › <a href="README.md">Oh My OpenAgent 기능 참고</a></sub>
 
 ## Claude Code 호환성
 
@@ -54,4 +54,6 @@ MCP 설정에서는 환경 변수 `${VAR}`를 확장할 수 있습니다.
 
 ---
 
-이전: [컨텍스트 주입](10-컨텍스트-주입.md) | 다음: [선언문](../11-선언문.md)
+<p align="right"><sub>다음 문서</sub><br><a href="../11-선언문.md"><b>선언문</b> →</a></p>
+
+<sub>← 이전: <a href="10-컨텍스트-주입.md">컨텍스트 주입</a></sub>

@@ -1,4 +1,4 @@
-[목차](../../../README.md) / [설정 참조](../../README.md) / [기능](../README.md) / [메모리](README.md)
+<sub><a href="../../../README.md">목차</a> › <a href="../../README.md">설정 참조</a> › <a href="../README.md">기능</a> › <a href="README.md">메모리</a></sub>
 
 #### Facts: 대화에서 사실 추출
 
@@ -11,4 +11,6 @@
 
 ---
 
-이전: [Recall: 관련 메모리 불러오기](08-Recall-관련-메모리-불러오기.md) | 다음: [Dream: 저장된 메모리 정리](10-Dream-저장된-메모리-정리.md)
+<p align="right"><sub>다음 문서</sub><br><a href="10-Dream-저장된-메모리-정리.md"><b>Dream: 저장된 메모리 정리</b> →</a></p>
+
+<sub>← 이전: <a href="08-Recall-관련-메모리-불러오기.md">Recall: 관련 메모리 불러오기</a></sub>

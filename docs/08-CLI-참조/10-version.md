@@ -1,4 +1,4 @@
-[목차](../README.md) / [CLI 참조](README.md)
+<sub><a href="../README.md">목차</a> › <a href="README.md">CLI 참조</a></sub>
 
 ## version
 
@@ -12,6 +12,6 @@ bunx oh-my-openagent version
 
 ---
 
----
+<p align="right"><sub>다음 문서</sub><br><a href="11-mcp-oauth-인증-관리.md"><b>mcp oauth: 인증 관리</b> →</a></p>
 
-이전: [refresh-model-capabilities: 모델 기능 갱신](09-refresh-model-capabilities-모델-기능-갱신.md) | 다음: [mcp oauth: 인증 관리](11-mcp-oauth-인증-관리.md)
+<sub>← 이전: <a href="09-refresh-model-capabilities-모델-기능-갱신.md">refresh-model-capabilities: 모델 기능 갱신</a></sub>

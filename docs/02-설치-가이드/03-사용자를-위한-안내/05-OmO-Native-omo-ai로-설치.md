@@ -1,4 +1,4 @@
-[목차](../../README.md) / [설치 가이드](../README.md) / [사용자를 위한 안내](README.md)
+<sub><a href="../../README.md">목차</a> › <a href="../README.md">설치 가이드</a> › <a href="README.md">사용자를 위한 안내</a></sub>
 
 ### OmO Native: omo-ai로 설치
 
@@ -37,4 +37,6 @@ npm으로 설치한 omo-ai가 현재 소유한 `omo`도 포함됩니다. 따라�
 
 ---
 
-이전: [직접 설치에 대한 참고 사항](04-직접-설치에-대한-참고-사항.md) | 다음: [첫 번째 실행: omo 설정](06-첫-번째-실행-omo-설정.md)
+<p align="right"><sub>다음 문서</sub><br><a href="06-첫-번째-실행-omo-설정.md"><b>첫 번째 실행: omo 설정</b> →</a></p>
+
+<sub>← 이전: <a href="04-직접-설치에-대한-참고-사항.md">직접 설치에 대한 참고 사항</a></sub>

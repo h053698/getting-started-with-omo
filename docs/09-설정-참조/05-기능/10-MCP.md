@@ -1,4 +1,4 @@
-[목차](../../README.md) / [설정 참조](../README.md) / [기능](README.md)
+<sub><a href="../../README.md">목차</a> › <a href="../README.md">설정 참조</a> › <a href="README.md">기능</a></sub>
 
 ### MCP
 
@@ -11,4 +11,6 @@
 
 ---
 
-이전: [알림](09-알림.md) | 다음: [LSP](11-LSP.md)
+<p align="right"><sub>다음 문서</sub><br><a href="11-LSP.md"><b>LSP</b> →</a></p>
+
+<sub>← 이전: <a href="09-알림.md">알림</a></sub>

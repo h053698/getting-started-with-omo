@@ -1,4 +1,4 @@
-[목차](../../README.md) / [설정 참조](../README.md) / [기능](README.md)
+<sub><a href="../../README.md">목차</a> › <a href="../README.md">설정 참조</a> › <a href="README.md">기능</a></sub>
 
 ### LSP
 
@@ -26,6 +26,6 @@ LSP MCP를 완전히 비활성화하려면 다음과 같이 설정하세요.
 
 ---
 
----
+<p align="right"><sub>다음 문서</sub><br><a href="../06-고급/01-런타임-폴백.md"><b>런타임 폴백</b> →</a></p>
 
-이전: [MCP](10-MCP.md) | 다음: [런타임 폴백](../06-고급/01-런타임-폴백.md)
+<sub>← 이전: <a href="10-MCP.md">MCP</a></sub>

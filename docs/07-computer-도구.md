@@ -1,4 +1,4 @@
-[목차](README.md)
+<sub><a href="README.md">목차</a></sub>
 
 ## computer 도구
 
@@ -161,4 +161,6 @@ Wayland는 전혀
 
 ---
 
-이전: [엔진 모드와 bunshin](06-OmO-Native의-컴퓨터-사용/09-엔진-모드와-bunshin.md) | 다음: [실행 파일 명령](08-CLI-참조/01-실행-파일-명령.md)
+<p align="right"><sub>다음 문서</sub><br><a href="08-CLI-참조/01-실행-파일-명령.md"><b>실행 파일 명령</b> →</a></p>
+
+<sub>← 이전: <a href="06-OmO-Native의-컴퓨터-사용/09-엔진-모드와-bunshin.md">엔진 모드와 bunshin</a></sub>

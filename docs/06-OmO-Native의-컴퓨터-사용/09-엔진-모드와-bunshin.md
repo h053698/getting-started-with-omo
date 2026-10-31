@@ -1,4 +1,4 @@
-[목차](../README.md) / [OmO Native의 컴퓨터 사용](README.md)
+<sub><a href="../README.md">목차</a> › <a href="README.md">OmO Native의 컴퓨터 사용</a></sub>
 
 ## 엔진 모드와 bunshin
 
@@ -26,4 +26,6 @@
 
 ---
 
-이전: [알려진 제한](08-알려진-제한.md) | 다음: [computer 도구](../07-computer-도구.md)
+<p align="right"><sub>다음 문서</sub><br><a href="../07-computer-도구.md"><b>computer 도구</b> →</a></p>
+
+<sub>← 이전: <a href="08-알려진-제한.md">알려진 제한</a></sub>

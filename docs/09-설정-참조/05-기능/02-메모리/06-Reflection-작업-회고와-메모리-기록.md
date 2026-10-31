@@ -1,4 +1,4 @@
-[목차](../../../README.md) / [설정 참조](../../README.md) / [기능](../README.md) / [메모리](README.md)
+<sub><a href="../../../README.md">목차</a> › <a href="../../README.md">설정 참조</a> › <a href="../README.md">기능</a> › <a href="README.md">메모리</a></sub>
 
 #### Reflection: 작업 회고와 메모리 기록
 
@@ -41,4 +41,6 @@ Reflection과 Dream 관리 프로세스는 `<OMO_MEMORY_HOME>/runtime/locks` 아
 
 ---
 
-이전: [시크릿 검사](05-시크릿-검사.md) | 다음: [Nudge: 메모리 저장 알림](07-Nudge-메모리-저장-알림.md)
+<p align="right"><sub>다음 문서</sub><br><a href="07-Nudge-메모리-저장-알림.md"><b>Nudge: 메모리 저장 알림</b> →</a></p>
+
+<sub>← 이전: <a href="05-시크릿-검사.md">시크릿 검사</a></sub>

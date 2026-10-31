@@ -1,4 +1,4 @@
-[목차](../../../README.md) / [설정 참조](../../README.md) / [기능](../README.md) / [메모리](README.md)
+<sub><a href="../../../README.md">목차</a> › <a href="../../README.md">설정 참조</a> › <a href="../README.md">기능</a> › <a href="README.md">메모리</a></sub>
 
 #### Nudge: 메모리 저장 알림
 
@@ -11,4 +11,6 @@
 
 ---
 
-이전: [Reflection: 작업 회고와 메모리 기록](06-Reflection-작업-회고와-메모리-기록.md) | 다음: [Recall: 관련 메모리 불러오기](08-Recall-관련-메모리-불러오기.md)
+<p align="right"><sub>다음 문서</sub><br><a href="08-Recall-관련-메모리-불러오기.md"><b>Recall: 관련 메모리 불러오기</b> →</a></p>
+
+<sub>← 이전: <a href="06-Reflection-작업-회고와-메모리-기록.md">Reflection: 작업 회고와 메모리 기록</a></sub>

@@ -1,4 +1,4 @@
-[목차](../../../README.md) / [설정 참조](../../README.md) / [기능](../README.md) / [메모리](README.md)
+<sub><a href="../../../README.md">목차</a> › <a href="../../README.md">설정 참조</a> › <a href="../README.md">기능</a> › <a href="README.md">메모리</a></sub>
 
 #### Git 작업 트리에서 메모리 공유
 
@@ -22,4 +22,6 @@
 
 ---
 
-이전: [개요](01-개요.md) | 다음: [세션에서 다루는 프로젝트의 메모리](03-세션에서-다루는-프로젝트의-메모리.md)
+<p align="right"><sub>다음 문서</sub><br><a href="03-세션에서-다루는-프로젝트의-메모리.md"><b>세션에서 다루는 프로젝트의 메모리</b> →</a></p>
+
+<sub>← 이전: <a href="01-개요.md">개요</a></sub>

@@ -1,4 +1,4 @@
-[목차](../README.md) / [CLI 참조](README.md)
+<sub><a href="../README.md">목차</a> › <a href="README.md">CLI 참조</a></sub>
 
 ## install
 
@@ -75,6 +75,6 @@ OpenCode 플러그인은 oh-my-openagent 설정에 `"telemetry": false`를 지�
 
 ---
 
----
+<p align="right"><sub>다음 문서</sub><br><a href="05-uninstall-cleanup-제거와-정리.md"><b>uninstall / cleanup: 제거와 정리</b> →</a></p>
 
-이전: [명령](03-명령.md) | 다음: [uninstall / cleanup: 제거와 정리](05-uninstall-cleanup-제거와-정리.md)
+<sub>← 이전: <a href="03-명령.md">명령</a></sub>

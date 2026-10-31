@@ -1,4 +1,4 @@
-[목차](../README.md) / [CLI 참조](README.md)
+<sub><a href="../README.md">목차</a> › <a href="README.md">CLI 참조</a></sub>
 
 ## uninstall / cleanup: 제거와 정리
 
@@ -31,6 +31,6 @@ omo-agent-toolkit uninstall --platform=codex
 
 ---
 
----
+<p align="right"><sub>다음 문서</sub><br><a href="06-doctor-진단.md"><b>doctor 진단</b> →</a></p>
 
-이전: [install](04-install.md) | 다음: [doctor 진단](06-doctor-진단.md)
+<sub>← 이전: <a href="04-install.md">install</a></sub>

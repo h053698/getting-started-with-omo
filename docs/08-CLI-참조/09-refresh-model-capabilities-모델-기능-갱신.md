@@ -1,4 +1,4 @@
-[목차](../README.md) / [CLI 참조](README.md)
+<sub><a href="../README.md">목차</a> › <a href="README.md">CLI 참조</a></sub>
 
 ## refresh-model-capabilities: 모델 기능 갱신
 
@@ -33,6 +33,6 @@ bunx oh-my-openagent refresh-model-capabilities
 
 ---
 
----
+<p align="right"><sub>다음 문서</sub><br><a href="10-version.md"><b>version</b> →</a></p>
 
-이전: [get-local-version: 로컬 버전 조회](08-get-local-version-로컬-버전-조회.md) | 다음: [version](10-version.md)
+<sub>← 이전: <a href="08-get-local-version-로컬-버전-조회.md">get-local-version: 로컬 버전 조회</a></sub>

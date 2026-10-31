@@ -1,4 +1,4 @@
-[목차](../README.md) / [CLI 참조](README.md)
+<sub><a href="../README.md">목차</a> › <a href="README.md">CLI 참조</a></sub>
 
 ## run 실행
 
@@ -49,6 +49,6 @@ bunx oh-my-openagent run <message>
 
 ---
 
----
+<p align="right"><sub>다음 문서</sub><br><a href="08-get-local-version-로컬-버전-조회.md"><b>get-local-version: 로컬 버전 조회</b> →</a></p>
 
-이전: [doctor 진단](06-doctor-진단.md) | 다음: [get-local-version: 로컬 버전 조회](08-get-local-version-로컬-버전-조회.md)
+<sub>← 이전: <a href="06-doctor-진단.md">doctor 진단</a></sub>

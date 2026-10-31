@@ -1,4 +1,4 @@
-[목차](../../README.md) / [설치 가이드](../README.md)
+<sub><a href="../../README.md">목차</a> › <a href="../README.md">설치 가이드</a></sub>
 
 # 사용자를 위한 안내
 

@@ -1,4 +1,4 @@
-[목차](../../../README.md) / [설정 참조](../../README.md) / [기능](../README.md) / [메모리](README.md)
+<sub><a href="../../../README.md">목차</a> › <a href="../../README.md">설정 참조</a> › <a href="../README.md">기능</a> › <a href="README.md">메모리</a></sub>
 
 #### Dream: 저장된 메모리 정리
 
@@ -17,4 +17,6 @@
 
 ---
 
-이전: [Facts: 대화에서 사실 추출](09-Facts-대화에서-사실-추출.md) | 다음: [메모리 진단](11-메모리-진단.md)
+<p align="right"><sub>다음 문서</sub><br><a href="11-메모리-진단.md"><b>메모리 진단</b> →</a></p>
+
+<sub>← 이전: <a href="09-Facts-대화에서-사실-추출.md">Facts: 대화에서 사실 추출</a></sub>

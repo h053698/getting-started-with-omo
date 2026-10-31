@@ -1,4 +1,4 @@
-[목차](../README.md) / [소개](README.md)
+<sub><a href="../README.md">목차</a> › <a href="README.md">소개</a></sub>
 
 # Oh My OpenAgent 한국어 가이드
 
@@ -15,6 +15,5 @@ Claude에 종속되지 않습니다. OpenAI에 묶이지 않습니다. 어느 �
 
 ---
 
----
+<p align="right"><sub>다음 문서</sub><br><a href="02-빠른-시작.md"><b>빠른 시작</b> →</a></p>
 
-다음: [빠른 시작](02-빠른-시작.md)

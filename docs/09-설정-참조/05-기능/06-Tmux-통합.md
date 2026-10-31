@@ -1,4 +1,4 @@
-[목차](../../README.md) / [설정 참조](../README.md) / [기능](README.md)
+<sub><a href="../../README.md">목차</a> › <a href="../README.md">설정 참조</a> › <a href="README.md">기능</a></sub>
 
 ### Tmux 통합
 
@@ -39,4 +39,6 @@
 
 ---
 
-이전: [브라우저 자동화](05-브라우저-자동화.md) | 다음: [Git Master](07-Git-Master.md)
+<p align="right"><sub>다음 문서</sub><br><a href="07-Git-Master.md"><b>Git Master</b> →</a></p>
+
+<sub>← 이전: <a href="05-브라우저-자동화.md">브라우저 자동화</a></sub>

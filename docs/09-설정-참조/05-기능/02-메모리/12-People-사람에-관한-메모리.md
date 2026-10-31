@@ -1,4 +1,4 @@
-[목차](../../../README.md) / [설정 참조](../../README.md) / [기능](../README.md) / [메모리](README.md)
+<sub><a href="../../../README.md">목차</a> › <a href="../../README.md">설정 참조</a> › <a href="../README.md">기능</a> › <a href="README.md">메모리</a></sub>
 
 #### People: 사람에 관한 메모리
 
@@ -12,4 +12,6 @@
 
 ---
 
-이전: [메모리 진단](11-메모리-진단.md) | 다음: [Agreements: 사용자와 합의한 규칙](13-Agreements-사용자와-합의한-규칙.md)
+<p align="right"><sub>다음 문서</sub><br><a href="13-Agreements-사용자와-합의한-규칙.md"><b>Agreements: 사용자와 합의한 규칙</b> →</a></p>
+
+<sub>← 이전: <a href="11-메모리-진단.md">메모리 진단</a></sub>

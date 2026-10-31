@@ -1,4 +1,4 @@
-[목차](../../../README.md) / [설정 참조](../../README.md) / [기능](../README.md) / [메모리](README.md)
+<sub><a href="../../../README.md">목차</a> › <a href="../../README.md">설정 참조</a> › <a href="../README.md">기능</a> › <a href="README.md">메모리</a></sub>
 
 #### Recall: 관련 메모리 불러오기
 
@@ -94,4 +94,6 @@ Recall이 실행되면 대화 기록에서 Kibitzer의 조언으로 표시된 �
 
 ---
 
-이전: [Nudge: 메모리 저장 알림](07-Nudge-메모리-저장-알림.md) | 다음: [Facts: 대화에서 사실 추출](09-Facts-대화에서-사실-추출.md)
+<p align="right"><sub>다음 문서</sub><br><a href="09-Facts-대화에서-사실-추출.md"><b>Facts: 대화에서 사실 추출</b> →</a></p>
+
+<sub>← 이전: <a href="07-Nudge-메모리-저장-알림.md">Nudge: 메모리 저장 알림</a></sub>

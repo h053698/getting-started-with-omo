@@ -1,4 +1,4 @@
-[목차](../README.md) / [오케스트레이션 시스템 가이드](README.md)
+<sub><a href="../README.md">목차</a> › <a href="README.md">오케스트레이션 시스템 가이드</a></sub>
 
 ## 계획: Ultrawork Planner
 
@@ -82,6 +82,6 @@ stateDiagram-v2
 
 ---
 
----
+<p align="right"><sub>다음 문서</sub><br><a href="04-실행-ulw-execute.md"><b>실행: /ulw-execute</b> →</a></p>
 
-이전: [아키텍처](02-아키텍처.md) | 다음: [실행: /ulw-execute](04-실행-ulw-execute.md)
+<sub>← 이전: <a href="02-아키텍처.md">아키텍처</a></sub>

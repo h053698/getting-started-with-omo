@@ -1,4 +1,4 @@
-[목차](../../README.md) / [설치 가이드](../README.md) / [사용자를 위한 안내](README.md)
+<sub><a href="../../README.md">목차</a> › <a href="../README.md">설치 가이드</a> › <a href="README.md">사용자를 위한 안내</a></sub>
 
 ### Codex 마켓플레이스에서 설치(앱 내)
 
@@ -122,4 +122,6 @@ Windows 설치 절차에는 정적 테스트가 마련되어 있습니다. 실�
 
 ---
 
-이전: [Light(Codex CLI) - 한 줄로 설치, 에이전트 불필요](02-LightCodex-CLI-한-줄로-설치-에이전트-불필요.md) | 다음: [직접 설치에 대한 참고 사항](04-직접-설치에-대한-참고-사항.md)
+<p align="right"><sub>다음 문서</sub><br><a href="04-직접-설치에-대한-참고-사항.md"><b>직접 설치에 대한 참고 사항</b> →</a></p>
+
+<sub>← 이전: <a href="02-LightCodex-CLI-한-줄로-설치-에이전트-불필요.md">Light(Codex CLI) - 한 줄로 설치, 에이전트 불필요</a></sub>

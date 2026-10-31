@@ -1,4 +1,4 @@
-[목차](../README.md) / [CLI 참조](README.md)
+<sub><a href="../README.md">목차</a> › <a href="README.md">CLI 참조</a></sub>
 
 ## mcp oauth: 인증 관리
 
@@ -32,6 +32,6 @@ bunx oh-my-openagent mcp oauth status [server-name]
 
 ---
 
----
+<p align="right"><sub>다음 문서</sub><br><a href="12-종료-코드.md"><b>종료 코드</b> →</a></p>
 
-이전: [version](10-version.md) | 다음: [종료 코드](12-종료-코드.md)
+<sub>← 이전: <a href="10-version.md">version</a></sub>
